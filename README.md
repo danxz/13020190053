@@ -1,2 +1,3 @@
-# 13020190053
-Algoritma-Dan-Pemrograman-2
+# Algoritma-Dan-Pemrograman - 2
+13020190053
+
